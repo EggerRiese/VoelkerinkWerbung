@@ -18,7 +18,7 @@
     }
 
     .horizontelCardContainer {
-        @apply flex justify-center py-10 hover:scale-105 transition-all duration-700 ease-in-out;
+        @apply flex justify-center py-10;
     }
 
     .horizontelCardImg {
